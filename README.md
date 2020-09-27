@@ -4,16 +4,17 @@
 
 При сложении регулярного бонуса (`regularBonus = 0.3`) и специального (`specialBonus = 0.6`) сумма тотал бонуса не корректна (`0.8999999999999999`)
 
-## Unit test "Запуск кода"
+## Описание тестов:
+* Unit test "Запуск кода"
 
 ## В результате тестирования выявлены следующие дефекты:
-![](https://raw.githubusercontent.com/BulygaDenis/javaHW1_4/master/1.3.png)
+[Ссылка на Issues](https://github.com/BulygaDenis/javaHW1_4/issues/1)
 
 
 ## Результаты
 
 1. 0/1
-2. [issues #1](https://github.com/BulygaDenis/javaHW1_4/issues/1)
+2. [Ссылка на баг-репорт](https://github.com/BulygaDenis/javaHW1_4/issues/1)
 
 
 **Ожидаемый результат:**
